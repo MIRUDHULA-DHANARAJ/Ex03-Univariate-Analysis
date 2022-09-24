@@ -45,5 +45,32 @@ sns.distplot(df["Postal Code"])
 sns.histplot(x="Postal Code", data=df)
 ```
 ## Output
+![OP1](https://user-images.githubusercontent.com/94828147/192077768-5217a417-0c12-43a9-b6e1-e0814b286c5a.png)
+
+![op2](https://user-images.githubusercontent.com/94828147/192077794-d7042f2d-9d89-482a-a51e-3e3c1b955290.png)
+
+![op3](https://user-images.githubusercontent.com/94828147/192077807-28095c57-32c0-47af-b024-113ea15687cd.png)
+
+![op4](https://user-images.githubusercontent.com/94828147/192077823-d808e38c-2ba5-41fd-a85f-6f0461122dbd.png)
+
+![op5](https://user-images.githubusercontent.com/94828147/192077912-7b57f726-6c06-4ae9-bdb7-03c70a900c1d.png)
+
+
+![op6](https://user-images.githubusercontent.com/94828147/192077920-d0635ee0-e8c2-406b-b55c-fe8155b2e406.png)
+
+
+![op7](https://user-images.githubusercontent.com/94828147/192077927-8491b31e-5098-4fbb-817f-86796a564183.png)
+
+
+![op8](https://user-i![op9](https://user-images.githubusercontent.com/94828147/192077938-ae30ba2d-ecc6-4cf3-8ca3-11d68f99cd4d.png)
+
+
+![op9](https://user-images.githubusercontent.com/94828147/192077953-c90eaa48-e47b-41b7-9364-5fbd9f2b242f.png)
+
+![op10](https://user-images.githubusercontent.com/94828147/192077956-f04dad0e-3216-41d7-82a2-0b60e06f888a.png)
+
+![op12](https://user-images.githubusercontent.com/94828147/192077960-14134dc2-42b2-4b1f-9573-7f69b009b3de.png)
+
+
 
 
